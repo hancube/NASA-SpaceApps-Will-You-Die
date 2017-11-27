@@ -1,12 +1,7 @@
 # NASA-SpaceApps-Will-You-Die
 This is a web application which won the most inspirational hack of NASA Space Apps NYC 2017. It projects the various dimensions and levels of damage of a plane crashing at each point along it's route, both to yourself and the resulting crash site.
 
-## Installation
-`git clone https://github.com/TomLavenziano/NASA-SpaceApps-Will-You-Die.git`
-
-`npm install`
-
-## Teammates
+## Hackathon Team Members
 - Sungok Lim
 - Sze Ying Ting
 - Tom Lavenziano
